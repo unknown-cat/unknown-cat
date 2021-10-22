@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @unknown-cat
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning Javascript Data Structure & Algorithms
+- 🌱 I’m currently learning React
